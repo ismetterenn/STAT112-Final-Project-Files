@@ -1,0 +1,13 @@
+The dataset contains the several information of the 250 tourists coming to 
+the Antalya during the summer 2022. 
+
+gender: the gender of the tourists
+country: the country of the tourists who visited Antalya
+age: the age of the tourists 
+education_level: the education level of the tourists 
+monthly_income: the salary of the tourist in the month (USD)
+spending_money: the amount of money that the tourist spent during the vacation (USD)
+height: the height of the tourist
+weight: the weight of the tourist 
+number_of_stay: the duration of the tourist being in Antalya(day)
+marital_status: the marital status of the tourist (yes: married, no: not married)
